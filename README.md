@@ -8,6 +8,20 @@
 - 🥅 2020 Goals: Learn as much I can.
 - ⚡ Fun fact: I love to play guitar and sing.
 
+### Top Projects
+
+
+
+| Project Name | Description | Preview | 
+| ------ | ------ | ------ | 
+| [Url Shortner](https://github.com/akshayagrawal87/urlShortner)  | A web app to shorten the url like tinyUrl  | [shortfy](https://shortfyurl.netlify.app/)
+| [Password Reset](	https://github.com/akshayagrawal87/password-reset-ui) | An app using jsonweb token and hashing | [Password Reset](https://password-reset-ui.netlify.app/)
+| [Music Player](https://github.com/akshayagrawal87/GuviBootCamp/tree/master/day15)| A music player with a playlist using youtube api | [Music Player](https://musicplayer-ts.netlify.app/)
+| [Quiz App](https://github.com/akshayagrawal87/GuviBootCamp/tree/master/day12) | A quiz app using HTML5,Js,CSS,Bootstrap |[Quiz App](	https://quiz-app-e79c89.netlify.app/)
+| [Weather App]() | An App to show weather of all country's capital|[Weather App](	https://weather-app-open-day11.netlify.app/)
+| [Calculator]() | A simple calculator | [Calulator](https://simple-calculator-akshay.netlify.app/)
+
+
 ### Connect with me:
 
 [<img align="left" alt="akshayagrawal87 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
