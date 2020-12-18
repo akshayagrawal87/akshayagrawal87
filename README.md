@@ -2,15 +2,13 @@
 
 ## I'm a Developer and Musician!!
 
-- 🔭 I am working as a full-stack developer.
+- 🔭 I am working as a Full-Stack Developer Tech Stack: Java | Javascript | React | Node | AWS | Docker | Git.
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate to interesting projects.
 - 🥅 2020 Goals: Learn as much I can.
 - ⚡ Fun fact: I love to play guitar and sing.
 
 ### Top Projects
-
-
 
 | Project Name | Description | Preview | 
 | ------ | ------ | ------ | 
@@ -20,9 +18,6 @@
 | [Quiz App](https://github.com/akshayagrawal87/GuviBootCamp/tree/master/day12) | A quiz app using HTML5,Js,CSS,Bootstrap |[Quiz App](	https://quiz-app-e79c89.netlify.app/)
 | [Weather App](https://github.com/akshayagrawal87/GuviBootCamp/tree/master/day11) | An App to show weather of all country's capital|[Weather App](	https://weather-app-open-day11.netlify.app/)
 | [Calculator](https://github.com/akshayagrawal87/GuviBootCamp/tree/master/day9) | A simple calculator | [Calulator](https://simple-calculator-akshay.netlify.app/)
-
-
-
 
 
 ### Connect with me:
