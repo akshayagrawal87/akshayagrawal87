@@ -1,6 +1,6 @@
 ### Hi there, I'm Akshay Agrawal👋👋
 
-## I'm a Developer and Musician!!
+## I'm a Full-Stack Developer!!
 
 - 🔭 I am working as a Full-Stack Developer Tech Stack: Java | Javascript | React | Node | AWS | Docker | Git.
 - 🌱 I’m currently learning everything 🤣
